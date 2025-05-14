@@ -86,4 +86,6 @@
   
 ![김건호96686976's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMKEONHO)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=compact)
+
 </div>  
