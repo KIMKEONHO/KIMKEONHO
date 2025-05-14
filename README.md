@@ -78,3 +78,5 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![김건호96686976's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMKEONHO)
