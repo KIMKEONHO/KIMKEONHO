@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
