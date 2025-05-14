@@ -90,5 +90,9 @@
 
 <h3 align="center">🚨 Solved.ac 🚨</h3>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerry6475)](https://solved.ac/jerry6475)
+<div align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jerry6475)](https://solved.ac/jerry6475)
+
+</div>
 
