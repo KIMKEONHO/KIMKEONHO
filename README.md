@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=KEONHO%20r&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=KEONHO%20's GITHUB&fontSize=90" />
 </div>
 
 <!--내용 부분-->
