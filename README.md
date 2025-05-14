@@ -83,17 +83,8 @@
 
 <h3 align="center">🔥 GitHub Stat 🔥</h3>
 
-<!-- 이미지를 가로로 나란히 배치하기 위한 컨테이너 -->
-<div align="center" style="display: flex; justify-content: center;">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KIMKEONHO&show_icons=true&theme=radical&locale=ko"
-       alt="김건호96686976's GitHub stats"
-       style="margin-right: 20px;" /> <!-- 두 이미지 사이 간격 조정 (선택 사항) -->
-
-  <!-- Top Languages Card (원그래프 형태로 변경) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=donut&theme=radical&locale=ko"
-       alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KIMKEONHO&show_icons=true&theme=radical&locale=ko" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=donut&theme=radical&locale=ko" alt="Top Languages" width="45%"/>
+</p>
 
