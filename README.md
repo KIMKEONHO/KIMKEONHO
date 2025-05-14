@@ -85,7 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIMKEONHO&show_icons=true&theme=radical&locale=ko" alt="GitHub Stats" width="45%" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=compact&theme=radical&locale=ko" alt="Top Languages" width="45%" />
 </p>
 
