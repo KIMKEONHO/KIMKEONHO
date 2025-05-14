@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
-
+<a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/PROFILE-github%20blog%20-ff69b4/></a>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
