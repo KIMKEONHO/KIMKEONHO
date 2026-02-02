@@ -58,7 +58,7 @@
 <h3 align="center">🔥 GitHub Stat 🔥</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIMKEONHO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimkeonho&show_icons=true&theme=radical&v=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMKEONHO&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
